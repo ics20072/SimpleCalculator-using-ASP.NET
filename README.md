@@ -13,5 +13,8 @@ Utilization of a calculator service located on the web: http://www.dneonline.com
 -Click now to the button "Save All" and directly after click again the "Save" button without modifying the default Path that will appear <br>
 -Now, go to Build -> Rebuild solution and then you are ready to run in your browser the "Default.aspx" by clicking the green arrow(button) at the top!
 
+# Note
+<h3>Because an external service is used, it can only manage and support integers as input!</strong></h3>
+
 
 
