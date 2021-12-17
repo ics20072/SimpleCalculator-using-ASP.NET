@@ -11,7 +11,7 @@ Utilization of a calculator service located on the web: http://www.dneonline.com
 -Then unzip the .zip file and move it to the folder ..\Documents\Visual Studio 2015\WebSites <br>
 -Now open Visual Studio 2015 and go to File -> Open -> WebSite.. -> Select the folder "SimpleCalculator-using-ASP.NET-master" and click "Open" <br>
 -Click now to the button "Save All" and directly after click again the "Save" button without modifying the default Path that will appear <br>
--Now, go to Build -> Rebuild solution and then you are ready to run in your browser the "Default.aspx" by clicking the green arrow(button) at the top!
+-Now, go to Build -> Rebuild Web Site, and then you are ready to run in your browser the "Default.aspx" by clicking the green arrow(button) at the top!
 
 # Note
 <h3>Because an external service is used, it can only manage and support integers as input!</strong></h3>
